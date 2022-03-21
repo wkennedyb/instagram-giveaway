@@ -1,8 +1,8 @@
-#Começar
+# Começar
 
-Instalação
+## Instalação
 
-Primeiro você tem que instalar todas as dependências:
+***Primeiro você tem que instalar todas as dependências:***
 
 npm i
 
