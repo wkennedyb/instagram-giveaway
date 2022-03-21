@@ -1,2 +1,7 @@
-# D-Dev-Java-Script-instagram-giveaway
-# instagram-giveaway
+#Começar
+Instalação
+Primeiro você tem que instalar todas as dependências:
+npm i
+
+
+
