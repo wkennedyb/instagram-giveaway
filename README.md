@@ -1,6 +1,4 @@
-# Começar
-
-## Instalação
+# Instalação
 
 ***Primeiro você tem que instalar todas as dependências:***
 
